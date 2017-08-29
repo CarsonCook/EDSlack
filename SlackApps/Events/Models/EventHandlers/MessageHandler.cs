@@ -4,6 +4,7 @@ using SlackITSupport.SlackLibrary.JsonParsing.EventJson;
 using SlackITSupport.SlackLibrary;
 using SlackITSupport.SlackLibrary.Post;
 using SlackITSupport.SlackLibrary.SlackConstants;
+using Newtonsoft.Json;
 
 namespace Events.Models.EventHandlers
 {
